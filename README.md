@@ -37,19 +37,20 @@ To minimize latency and avoid TCP handshake overhead, the encrypted payload is s
 * **Sensor:** DHT11 (Temperature & Humidity)
 
 
-Hardware Datasheets
+**Hardware Datasheets**
 
-Microchip ATECC608A: CryptoAuthentication™ Device Summary Datasheet
+**Microchip ATECC608A:** https://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-TFLXTLS-CryptoAuthentication-Data-Sheet-DS40002138A.pdf
 
-Espressif ESP32: ESP32 Technical Reference Manual
+**Espressif ESP32:** https://documentation.espressif.com/esp32_technical_reference_manual_en.pdf
 
-DHT11 Sensor: Temperature and Humidity Module Specifications
+**DHT11 Sensor:** https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf
 
-Software & Frameworks
 
-ESP-IDF: Espressif IoT Development Framework Programming Guide
+**Software & Frameworks**
 
-Microchip CryptoAuthLib: Official Secure Element Library
+**Espressif IoT Development Framework Programming Guide:** https://docs.espressif.com/projects/esp-idf/en/latest/esp32/
 
-Mbed TLS: Cryptographic Library for ESP32 Hardware Acceleration
+**Microchip CryptoAuthLib:** https://github.com/MicrochipTech/cryptoauthlib
+
+**Mbed TLS:** https://github.com/Mbed-TLS/mbedtls
 
