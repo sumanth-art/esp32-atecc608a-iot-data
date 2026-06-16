@@ -36,3 +36,20 @@ To minimize latency and avoid TCP handshake overhead, the encrypted payload is s
 * **Secure Element:** Microchip ATECC608A (Interfaced via I2C at 100kHz)
 * **Sensor:** DHT11 (Temperature & Humidity)
 
+
+Hardware Datasheets
+
+Microchip ATECC608A: CryptoAuthentication™ Device Summary Datasheet
+
+Espressif ESP32: ESP32 Technical Reference Manual
+
+DHT11 Sensor: Temperature and Humidity Module Specifications
+
+Software & Frameworks
+
+ESP-IDF: Espressif IoT Development Framework Programming Guide
+
+Microchip CryptoAuthLib: Official Secure Element Library
+
+Mbed TLS: Cryptographic Library for ESP32 Hardware Acceleration
+
